@@ -27,7 +27,7 @@ https://memories047.netlify.app
 on this URL Application has been deployed
 ## Screenshots
 
-![App Screenshot](https://lh3.google.com/u/1/d/113OSz1gqoXm12AN7liV2rzBZAfaGz8RW=w1920-h902-iv1)
+![App Screenshot](https://github.com/shivkumarverma/Memories/blob/master/Screenshot%202022-01-20%20173849.png?raw=true)
 
 
 ## Prerequisites / Installation
